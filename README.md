@@ -1,3 +1,4 @@
-# template-repo
+# Discussions
 
-This repository serves as a template for future repositories that will be created.
+Welcome to the repo for discussions.
+Head over to the discussions tab to check out what people are talking about.
